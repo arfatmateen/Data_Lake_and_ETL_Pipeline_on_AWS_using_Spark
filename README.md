@@ -10,7 +10,7 @@
     <img src="images/udacity.svg" alt="Logo" width="200" height="200">
   </a>
 
-  <h3 align="center">Data Lake & an ETL Pipeline in Spark on AWS</h3>
+  <h3 align="center">Data Lake and ETL Pipeline on AWS using Spark</h3>
 
   <p align="center">
     ETL pipeline for Song Play Analysis
